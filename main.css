@@ -1,0 +1,183 @@
+.header{
+
+    background: #3b5998;    
+    width: 100%;
+    height: 85px;
+}
+    
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;  
+    background:linear-gradient(white, #D3D8E8); 
+}    
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.login{ 
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold; 
+    text-decoration: none; 
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+    }
+.login-label{
+    color: #fff;
+    font-size: 11px;
+}  
+.login-controls{
+    margin-left: 115px;
+} 
+.login{ 
+    padding-top: 10px;
+}
+.forgotten{
+    color:#9cb4d8;
+    text-decoration: none;
+    font:8px;
+
+}
+.sumbit-button{
+    background:#4267b2 ;
+    height: 20px;
+    border-color:#29487d;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+    border-style: solid;
+
+}
+.sumbit-button:hover{
+    opacity: 0.5; 
+}
+.main-body{
+    width:100%;
+    height:800px;   
+}
+
+.left-section{
+    float: left;
+    width:50%;
+    padding-left:134px; 
+    padding-top:52px;   
+}
+.image-facebook{
+  width: 581px;  
+} 
+.para{
+    font-weight:bold;
+    font-size:20px; 
+    color:rgb(14, 56, 95)
+}
+
+.right-section{
+    width: 39%;
+    float: left;
+    padding-top:52px; 
+}
+.account{
+    color:#333; 
+    font-size:36px; 
+    font-family:Helvetica,Arial, sans-serif;
+    font-weight:700;
+}
+.free{
+    color:#1d2129;
+    font-size:19px; 
+    font-family:Helvetica, Arial, sans-serif;
+}
+.details{
+    background-color:white;
+    border: 1px solid rgb(189, 199, 216);
+    border-radius:5px;
+    font-family:Helvetica, Arial, sans-serif;
+    font-size:18px;
+    font-weight:400;
+    outline-color:rgb(77, 144, 254);
+    padding-bottom:8px;
+    padding-top:8px;
+    padding-left:10px;
+    padding-right:10px;
+    margin:6px;
+}
+
+.birthday{
+    color:#1d2129; 
+    font-size:25px;
+    font-family:Helvetica, Arial, sans-serif;
+}
+select{
+	background-color:rgb(221, 221, 221);
+	border:1px solid rgb(189, 199, 216);
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:13px;
+	font-weight:400;
+	height:30px;
+	padding:5px;
+	width:73px;
+	margin:0;
+}
+.birthday
+{
+	color:rgb(54, 88, 153);
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:11px;
+	text-decoration-color:rgb(54, 88, 153);
+	width:150px;
+	display:inline-block;
+	text-decoration:none;
+
+}
+.gender
+{
+	color:rgb(29, 33, 41);
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:18px;
+	font-weight:400;
+	padding-left:3px;
+	padding-right:10px;
+	margin-top:30px;
+}
+.terms-and-conditions
+{
+	color:rgb(119, 119, 119);
+	display:block;
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:11px;
+	margin-top:11px;
+	margin-bottom:11px;
+	width:316px;
+}
+.submit
+{	font-size:18px;	
+	background-color:rgb(105, 167, 78);
+	border:1px solid rgb(59, 110, 34);
+	color:white;
+	font-family:Freight Sans Bold, Helvetica, Arial, sans-serif;
+	padding:5px;
+	font-weight:bold;
+	margin-bottom:10px;
+	margin-top:10px;
+	border-radius:5px;
+    cursor: pointer;
+}
+.submit:hover{
+    opacity: .9;
+}
+.Create-new{
+    font-family:Helvetica, Arial, sans-serif;
+    color:rgb(102, 102, 102); 
+    font-size:13px;
+    text-decoration: none;
+}
+.Create-new-link{
+    text-decoration: none;
+}
+ 
+
